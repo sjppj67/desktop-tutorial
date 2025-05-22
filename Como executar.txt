@@ -1,0 +1,4 @@
+Comando PowerShell para rodar!
+
+Set-ExecutionPolicy Bypass -Scope Process -Force; .\windows_apps_blocker_com_relatorio.ps1
+
