@@ -1,4 +1,5 @@
 Comando PowerShell para rodar!
-
+Execute como administrador! Com esses parâmetros, o powershell não reclama de políticas de execução.
+--------------------------------------------------------------------------------------------
 Set-ExecutionPolicy Bypass -Scope Process -Force; .\windows_apps_blocker_com_relatorio.ps1
-
+--------------------------------------------------------------------------------------------
